@@ -1,4 +1,4 @@
-# Jupyter for Data Science
+# Jupyter for Data Science- Important source
 This is the code repository for [Jupyter for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/jupyter-data-science?utm_source=github&utm_medium=repository&utm_campaign=9781785880070), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 If you are familiar with Jupyter notebook and want to learn how to use its capabilities to perform various data science tasks, this is the book for you! From data exploration to visualization, this book will take you through every step of the way in implementing an effective data science pipeline using Jupyter. You will also see how you can utilize Jupyter's features to share your documents and codes with your colleagues. The book also explains how Python 3, R, and Julia can be integrated with Jupyter for various data science tasks.
