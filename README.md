@@ -25,7 +25,3 @@ This book is focused on using Jupyter as the platform for data science. It assum
 * [Mastering Spark for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-spark-data-science?utm_source=github&utm_medium=repository&utm_campaign=9781785882142)
 
 * [Learning Jupyter](https://www.packtpub.com/big-data-and-business-intelligence/learning-jupyter?utm_source=github&utm_medium=repository&utm_campaign=9781785884870)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781785880070">https://packt.link/free-ebook/9781785880070 </a> </p>
